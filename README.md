@@ -98,3 +98,6 @@ The **AI-Powered Customer Service App** is a cutting-edge application designed t
 The **AI-Powered Customer Service App** revolutionizes how companies interact with their customers. By offering real-time, AI-powered support, the app significantly reduces response times, improves accessibility, and enhances the overall user experience.
 
 Whether you're a business looking to improve your customer support process or a user seeking efficient assistance, the **AI-Powered Customer Service App** is here to help. Start using it today and experience **30% faster responses**, **40% more accessible support**, and a **25% improvement in navigation efficiency**.
+
+
+![preview](preview.png)
